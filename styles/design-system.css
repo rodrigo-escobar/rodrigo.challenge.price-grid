@@ -1,0 +1,15 @@
+:root {
+  /* Colors */
+  --bg-color: #e6eff5;
+  --primary-color: #2ab3b1;
+  --accent-color: #c0df33;
+  --copy-color: #9aa7be;
+  --white: #ffffff;
+
+  /* Typography Scale */
+  --font-heading: 2.4rem;
+  --font-subheading: 1.8rem;
+  --font-copy: 1.6rem;
+  --font-copy-small: 1.6rem;
+  --font-accent: 32px;
+}
